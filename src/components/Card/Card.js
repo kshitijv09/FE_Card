@@ -17,7 +17,7 @@ import FiberManualRecord from '@mui/icons-material/FiberManualRecord'
 import LoopIcon from '@mui/icons-material/Loop';
 
 
-const DisplayCard = ({index,mp}) => {
+const DisplayCard = ({index,mp,filter}) => {
 
   const customStyle = {
     marginRight: "5px", // Adjust the value as needed

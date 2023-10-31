@@ -1,7 +1,10 @@
+body{
+  background-color: aliceblue;
+}
+
 .App{
   text-align: center;
   width:70%;
-  border:red solid 2px;
   margin:auto;
   align-items: center;
   height: 100vh;
