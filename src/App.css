@@ -1,5 +1,18 @@
-.App {
+.App{
   text-align: center;
+  width:70%;
+  border:red solid 2px;
+  margin:auto;
+  align-items: center;
+  height: 100vh;
+}
+
+.cards {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
 }
 
 .App-logo {
